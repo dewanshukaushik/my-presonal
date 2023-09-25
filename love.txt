@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main()
+{
+    printf("\n\t\t\t\t\t\tI LOVE YOU RABBIT ");
+    printf("\n\t\t\t\t\t\tI MISS YOU BACHA  ");;
+    printf("\n\t\t\t\t\t\tI WANT YOU ");
+    printf("\n\t\t\t\t\t\tI NEED YOU ");
+    printf("\nChaand Sitare Phool Parindey Sham Savera ek tarf, Tera hasna,teri Baatein, tera chehra ek tarf !!");
+    printf("\nCAn I just sit with you and tell you that I love you more than i can ever explain");
+    printf("\nCan I just hug yo a u and hear your heart beats because it makes me feel that we are much closer than wer can ever be");
+    printf("\nCan I just gift you a smile so that everytime you you miss me a little you smile more");
+     printf("\nCan I just tell you that how lucky I have been to meet someone who has been so good to me that I everyday just pray I never lose you ");
+      printf("\nCan I just walk together with you and talk about life, talk about us, know each others deepest fears and strengths ");
+       printf("\nCan I just call you Mine forever and never lose you !!!");
+
+
+
+}
